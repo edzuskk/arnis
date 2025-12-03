@@ -1,2 +1,2 @@
 <?php
-echo "Es gribu iemesties";
+echo "Es ļoti gribu iemesties";
